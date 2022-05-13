@@ -9,8 +9,11 @@ namespace linecompproblem
             Console.WriteLine("Welcome to line comparison problem");
             //calculatinglinelength a = new calculatinglinelength();
             //a.Calculatinglinelength();
-            LinesisEqualorNot b = new LinesisEqualorNot();
-            b.linesequalornot();
+            //LinesisEqualorNot b = new LinesisEqualorNot();
+            //b.linesequalornot();
+
+            TwoLinesComparison c = new TwoLinesComparison();
+            c.Comparison();
 
         }
     }
